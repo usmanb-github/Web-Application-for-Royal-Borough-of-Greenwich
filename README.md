@@ -24,3 +24,5 @@ Search functionality shown results too
 
 L6: Cookies
 Remembering users login for 24 hours.
+
+Please select the three zip file to view the code alongside the report shown too.
